@@ -10,7 +10,7 @@ The results: a table full of image predictions (the top three only) alongside ea
 This data wrangling process consists of: 
 - Gathering data
 - Assessing data
--Cleaning data
+- Cleaning data
 
 Finally, storing, analyzing, and visualizing your wrangled data.
 Reporting on 1) your data wrangling efforts and 2) your data analyses and visualizations
